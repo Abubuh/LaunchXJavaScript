@@ -1,0 +1,19 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+.sticky-top{
+  top: 2%;
+
+}
+
+.ability{
+  text-align: center;
+}
+
+.pokeball{
+  position: absolute;
+  top: 145px;
+  left: 95px ;
+  width: 120px;
+}
